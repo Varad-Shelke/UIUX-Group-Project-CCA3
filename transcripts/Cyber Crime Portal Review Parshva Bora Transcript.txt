@@ -1,0 +1,41 @@
+
+
+Hello everyone! I’m Parshva Bora, and today I’ll be evaluating the UI/UX project presented by Varad’s group. Their project focuses on Cyber Security, and I’ll be comparing the original cybercrime reporting website with their redesigned prototype. I’ll be looking at both versions from a user’s perspective, especially how easy and comfortable they are to use when someone is already in a stressful situation.
+
+Let’s say my friend is being harassed online by someone she doesn’t know. She wants to report it, but she’s scared and doesn’t want to reveal her identity. So, let’s see how easy it is to report this on the original website.
+
+Honestly, the first thing I notice is that there’s a lot of information on the homepage. I’m trying to find an option to report anonymously, but it’s not immediately obvious. And if I’m already scared or stressed, having to search through all of this could be enough to make me give up.
+
+Okay, I’ve found the relevant section. There are two options here, and thankfully, one of them is “Report Anonymously.” But the problem is, I had to look for it. Something this important should be much easier to find.
+
+Now, I’m taken to a page with quite a few instructions. I understand that the information is important, but it feels a little overwhelming. And I still have questions. What exactly does anonymous mean here? Will my friend’s identity remain protected? Will someone contact her? And can she track her report later? These are things a person in this situation would naturally want to know before proceeding.
+
+The form itself also feels very formal. There’s nothing that really reassures the user or makes them feel comfortable. Even a simple message explaining that they can proceed at their own pace would make a difference.
+
+Another thing I noticed is that I can’t clearly tell how many steps are left or whether my progress is being saved. Imagine spending time filling out this form and then losing everything because the session expires. For someone who’s already dealing with harassment, having to go through that again could be really frustrating.
+
+So, overall, the website does provide an anonymous reporting option, but the experience could be much better. It gives you the functionality, but it doesn’t do enough to make the user feel safe, informed, or comfortable.
+
+Now, let’s look at the redesigned prototype. We’re in the exact same situation: my friend wants to report online harassment without revealing her identity. Let’s see how this version handles it.
+
+Okay, the first thing I notice is that the layout is much cleaner. I can immediately see the “Women / Child Related Crime” section, and the “Report Anonymously” option is right there. I don’t have to search through the page, and there’s also a clear indication that anonymous reporting is available. That’s a great improvement because the user gets the information they need right from the beginning.
+
+The next thing I like is that the instructions are much shorter and easier to understand. Instead of making the user go through a lot of formal text, the prototype explains things in a simpler way. And honestly, when someone is already stressed, that makes a big difference.
+
+I also noticed that the draft is saved automatically, and the user can leave and come back later. I really like this feature because it removes the pressure of having to complete everything in one sitting.
+
+The header is also much simpler now. We have just the important options, like “Save & Exit,” language selection, and Help. There are fewer distractions, so the user can focus on what they actually need to do.
+
+And here, we can see the steps at the top. I know where I am in the process and how much is left. It makes the whole thing feel more manageable instead of feeling like an endless form.
+
+Now, we’ve reached the evidence upload section. I can clearly see which file types are accepted, so I don’t have to guess whether my screenshot will work. Let’s upload it.
+
+And there we go! The file has been accepted, and there’s a clear confirmation on the screen. That’s a small detail, but it’s important because the user knows their action was successful instead of wondering whether something went wrong.
+
+So, comparing both versions, I think the biggest difference is how they make the user feel. The original website provides the option to report anonymously, but finding it and understanding the process takes more effort than it should.
+
+The redesigned prototype makes the process clearer, reduces unnecessary distractions, and gives the user more confidence while reporting. And in a situation like online harassment, that confidence really matters.
+
+If I had to choose one version for my friend, I’d definitely choose the redesigned prototype. Because good UI/UX isn’t just about making a website look better. It’s about making sure people can use it easily, especially when they need help the most.
+
+Thank you!
